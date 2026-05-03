@@ -2,9 +2,7 @@
 
 An advertiser types one sentence; the system returns ranked publishers (with reasoning + exclusions), 3-5 persona-tuned ad creatives, and a structured campaign config. Original brief: [ASSIGNMENT.md](ASSIGNMENT.md). Glossary: [GLOSSARY.md](GLOSSARY.md).
 
-**Live demo**: https://disco-takehome.vercel.app
-
-## Run it locally
+## Run it
 
 ```bash
 cp .env.example .env.local       # add your GEMINI_API_KEY
